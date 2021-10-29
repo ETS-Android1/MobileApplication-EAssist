@@ -7,7 +7,7 @@ A mobile application to help the elderly use their smartphone (Android). E-Assis
 - Andres Fernando Garcia Delgado\
 andresgercie@gmail.com / https://www.linkedin.com/in/andres-fernando-garcia-delgado-160b50190/
 - Fadhil Mulyono Yulius\
-fadhilmulyono@outlook.com / https://www.linkedin.com/in/fadhil-mulyono-357007b6/
+fadhilmulyono@gmail.com / https://www.linkedin.com/in/fadhil-mulyono-357007b6/
 - Fransiskus Jeffry\
 fransiskus.jeffry@gmail.com / https://www.linkedin.com/in/fransiskus-jeffry-132b50190/
 - Julian Evan\
